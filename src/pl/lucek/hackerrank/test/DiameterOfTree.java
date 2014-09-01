@@ -2,7 +2,6 @@ package pl.lucek.hackerrank.test;
 
 import java.util.Scanner;
 
-
 public class DiameterOfTree {
 
 	public static void main(final String[] args) {
